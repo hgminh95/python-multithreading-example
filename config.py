@@ -1,0 +1,2 @@
+SWAP_DATA = False
+MAX_N = 50
